@@ -1,1 +1,1 @@
-{"resources":{"Scripts/properties.sql":{"default-datasource":"mysql8-195b46431e2-4b6080375a2fee5e"}}}
+{"resources":{"Scripts/NOT_NULL.sql":{"default-datasource":"mysql8-195b46431e2-4b6080375a2fee5e"},"Scripts/coding_challenge.sql":{"default-datasource":"mysql8-195b46431e2-4b6080375a2fee5e"},"Scripts/properties.sql":{"default-datasource":"mysql8-195b46431e2-4b6080375a2fee5e"}}}

@@ -30,3 +30,4 @@ VALUES
 (5, "Dubai Peanut Cakery", "Dubai, UAE", 5500000)
 
 SELECT * From properties;
+
